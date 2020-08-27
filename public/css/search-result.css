@@ -1,0 +1,18 @@
+.search-results-container {
+    min-height: 500px;
+    margin: 20px auto;
+  }
+  .search-results-container a {
+    color:#41D1CC;
+  }
+  .search-results-container a:hover {
+    text-decoration: underline;
+    color: #20B2AA;
+  }
+  
+  .search-results-count {
+    margin-bottom: 20px;
+  }
+  
+  /*# sourceMappingURL=cart.css.map */
+  

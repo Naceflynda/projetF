@@ -1,0 +1,25 @@
+.my-profile label {
+  display: block;
+}
+.my-profile .form-control {
+  margin-bottom: 60px;
+}
+.my-profile input {
+  border: 1px solid grey;
+  padding: 16px 10px;
+  border-radius: 5px;
+  width: 66.6%;
+  font-size: 14px;
+  margin-bottom:3%;
+}
+.my-profile .my-profile-button {
+  background: rgb(39, 39, 39);
+  color: white;
+  border-radius: 5px;
+  padding: 12px 50px;
+}
+.my-profile .my-profile-button:hover {
+  background: rgb(39, 39, 39);
+}
+
+/*# sourceMappingURL=cart.css.map */

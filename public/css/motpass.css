@@ -1,0 +1,72 @@
+
+                    
+    .sidebar1 {
+        background: #F17153;                   
+        background: -webkit-linear-gradient(#F17153, #F58D63, #f1ab53);               
+        background: -o-linear-gradient(#F17153, #F58D63, #f1ab53);                  
+        background: -moz-linear-gradient(#F17153, #F58D63, #f1ab53);                   
+        background: linear-gradient(#F17153, #F58D63, #f1ab53);                        
+        padding: 0px;
+        min-height: 100%;
+        margin-bottom: 20%;
+    }
+    .logo {
+        max-height: 130px;
+    }
+    .logo>img {
+        margin-top: 30px;
+        padding: 3px;
+        border: 3px solid white;
+        border-radius: 100%;
+    }
+    .list {
+        color: #fff;
+        list-style: none;
+        padding-left: 0px;
+    }
+    .list::first-line {
+        color: rgba(255, 255, 255, 0.5);
+    }
+    .list> li, h5 {
+        padding: 5px 0px 5px 40px;
+    }
+    .list>li:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        border-left: 5px solid white;
+        color: white;
+        font-weight: bolder;
+        padding-left: 35px;
+    }
+    .list>li a:hover {
+        color: white;
+        font-weight: bolder;
+        text-decoration: none;
+    }
+    .list>li a {
+        color: white;
+    }
+    .main-content{
+        text-align:center;
+    }
+    label{
+        display:block;
+    }
+    input{
+        border: 1px solid text-color-light;
+        padding: 16px 10px;
+        border-radius: 5px;
+        width: 66.6%;
+        font-size: 14px;
+    }
+    .form-control{
+        margin-bottom: 30px;
+    }
+    .myorders-button{
+        background: text-color;
+        color: white;
+        border-radius: 5px;
+        padding: 12px 50px;
+    }
+
+
+ 

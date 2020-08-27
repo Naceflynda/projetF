@@ -1,0 +1,76 @@
+
+ .auth-pages {
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 100px;
+    min-height: 60vh;
+  }
+  .auth-pages h2{
+      margin-bottom: 6%;
+      font-weight: bold;
+  }
+  .auth-pages input {
+    border: 2px solid #585858;
+    padding: 22px 15px;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  .auth-pages input[type=checkbox] {
+    width: auto;
+  }
+  .auth-pages .login-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .auth-pages .auth-button {
+    background: teal;
+    color: white;
+    border-radius: 5px;
+    padding: 12px 50px;
+    margin-bottom:3%;
+
+  }
+  .auth-pages .auth-button:hover {
+    background: #016161;
+  }
+  .auth-pages .auth-button-hollow {
+    background: white;
+    color: grey;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding: 12px 50px;
+  }
+  .auth-pages .auth-button-hollow:hover {
+    background: teal;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .auth-pages .auth-right {
+    border-left: 1px solid grey;
+    padding-left: 100px;
+  }
+  .auth-pages .auth-right .spacer{
+    height:4%;
+  }
+  .auth-pages .already-have-container {
+    text-align: right;
+    text-decoration: none;
+  }
+  .auth-pages .already-have-container a{
+    
+    text-decoration: none;
+  }
+  .auth-pages .butt  {
+    font-weight: bold;
+    text-decoration: none;
+    background-color:white;
+   
+  }
+ 
+  /*# sourceMappingURL=cart.css.map */
+  

@@ -1,0 +1,49 @@
+.button {
+    border: 1px solid grey;
+    padding: 12px 40px;
+    background: rgb(167, 162, 162);
+  }
+  .button:hover {
+    color: white;
+    background: grey;
+  }
+  
+  .button-white {
+    border: 1px solid white;
+    color: white;
+  }
+  .button-white:hover {
+    color: grey;
+    background: white;
+  }
+  
+  .button-primary {
+    background: teal;
+    color: white;
+    padding: 12px 40px;
+   
+  }
+  .button-primary:hover {
+    background: #016161;
+    color: white;
+  }
+  .button-primary:disabled {
+    background: #63cdb7;
+    cursor: not-allowed;
+  }
+  
+  .button-plain {
+    border: 1px solid white;
+    background: transparent;
+    background: teal;
+    margin-left: 5%;
+    color: white;
+  }
+  .button-plain:hover{
+    background: #017474;
+  }
+  
+  .button-container {
+    margin: 80px 0;
+  }
+  

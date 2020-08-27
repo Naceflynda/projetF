@@ -1,0 +1,39 @@
+.might-like-section {
+    padding: 40px 0 70px;
+    background: lightgray;
+  }
+  .might-like-section h2 {
+    padding-bottom: 30px;
+  }
+  .might-like-section .might-like-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 30px;
+  }
+  .might-like-section .might-like-product {
+    border: 1px solid #979797;
+    background: white;
+    padding: 30px 0 20px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+  }
+  .might-like-section .might-like-product a{
+    text-decoration: none;
+    color:black;
+  }
+  .might-like-section .might-like-product:hover a{
+    text-decoration: none;
+    color:black;
+  }
+  .might-like-section .might-like-product img {
+    width: 70%;
+  }
+  .might-like-section .might-like-product-price {
+    font-family: 'Raleway', sans-serif;
+    color: #ad1f00;
+    font-weight: bold;
+  }
+  
+  /*# sourceMappingURL=cart.css.map */
+  
